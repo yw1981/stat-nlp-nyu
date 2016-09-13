@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Yuxin
+   last: Wang
+email: yw1981@nyu.edu
+leaderboard: yw1981
